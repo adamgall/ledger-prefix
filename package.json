@@ -1,0 +1,11 @@
+{
+  "name": "ledger-prefix",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "@ethersproject/hardware-wallets": "^5.7.0",
+    "@ledgerhq/hw-transport-node-hid": "^6.28.1"
+  }
+}
